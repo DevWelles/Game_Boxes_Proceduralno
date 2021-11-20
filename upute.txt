@@ -1,0 +1,10 @@
+Potrebno je napraviti igru sa 10 nivoa.
+Zadao sam vam u početnom kodu koji su otprilike parametri težine (broj krugova)
+za svaki nivo(možete mijenjati). 
+Također sam vam riješio funkcije koje omogućuju drag and drop. 
+Dalje je na vama ;-). Tu sam za pomoć, slobodno zovite. 
+Kroz nekoliko slijedećih predavanja radimo DOM pa će vam zadatak postajati lakši 
+i lakši kako budemo učili. 
+Također primjetite da sam zadatak postavio na osnovama proceduralnog 
+programiranja, kada ga završimo, napravit ćemo preprogramiranje u 
+objektno orjentirani stil pa ćete vidjeti koliko je on zgodniji. :-)
